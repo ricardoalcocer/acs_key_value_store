@@ -8,6 +8,7 @@ This project implements a generic web service that allows you to use ACS as a ba
 	<li>Create a new Node.acs app by typing: acs new (you may have to login first with acs login)
 	<li>Replace the contents of the folder with the files in this repo.
 	<li>Go to my.appcelerator.com/apps and create a new ACS-only app
+	<li>Add at least 1 user
 	<li>On your App Management screen copy your OAuth Credentials onto lines 2 and 3 of app.js
 	<li>On your Terminal go to your app's folder and type: acs publish.  This will give you a public URL in return
 </ol>
