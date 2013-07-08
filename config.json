@@ -1,0 +1,14 @@
+{
+  "routes":
+  [
+    { "path": "/setvalue","method":"post","callback":"application#setvalue"},
+    { "path": "/delvalue","method":"post","callback":"application#delvalue"}
+  ],
+  "filters":
+  [
+  ],
+  "websockets":
+  [
+  	{ "event": "", "callback": ""}
+  ]
+}

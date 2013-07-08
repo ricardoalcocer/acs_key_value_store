@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menuoptions"
+			],
+			[
+				"parent",
+				"parentWindow"
+			],
+			[
+				"extra",
+				"extraButtons"
+			],
+			[
+				"manifest",
+				"manifestURL"
+			],
+			[
+				"manife",
+				"manifestLocation"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"upload",
+				"uploadFolder"
+			],
+			[
+				"new",
+				"newFile"
+			],
+			[
+				"blogapi",
+				"blogapicall"
+			],
+			[
+				"comment",
+				"commenttemplate"
+			],
+			[
+				"commen",
+				"commentsapicall"
+			],
+			[
+				"fee",
+				"feedfooter"
+			],
+			[
+				"feed",
+				"feedheader"
+			],
+			[
+				"img",
+				"imgsrc"
+			],
+			[
+				"get_",
+				"file_get_contents"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"getWe",
+				"getWeatherData"
+			],
+			[
+				"getLocation",
+				"getLocationData"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"wea",
+				"weatherAPIKey"
+			],
+			[
+				"location",
+				"locationAPIKey"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"getT",
+				"getTimezoneName"
+			],
+			[
+				"bak",
+				"backgroundColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/xconfig.json",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/c2j_1/app.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/config.json",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/app.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/filters/session_filter.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/controllers/application.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/retester/lib/acshelper.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acshelper/controllers/application.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acshelper/lib/acshelper.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/lib/filemanager.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/lib/common.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/controllers/selecttracks.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/views/selecttracks.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/lib/progress.view.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/header.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/home.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/about.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/contact.ejs",
+		"/Users/ralcocer/Library/Widgets/DashNote.wdgt/scripts/functions.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/SimpleNote/Widget/index.html",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/SimpleNote/Widget/scripts/widget.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/index.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/app.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/topnav.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/main.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/footer.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/lib/acs.js",
+		"/Users/ralcocer/MyFirstApp/views/index.ejs",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/views/xindex.ejs",
+		"/Applications/MAMP/htdocs/acsfrontend/header.html",
+		"/Applications/MAMP/htdocs/acsfrontend/footer.html",
+		"/Applications/MAMP/htdocs/acsfrontend/lib/xdxhr.js",
+		"/Applications/MAMP/htdocs/acsfrontend/lib/jquery.xdoamainajax.js",
+		"/Applications/MAMP/htdocs/acsfrontend/lib/xdhxr.js",
+		"/Applications/MAMP/htdocs/acsfrontend/index.php",
+		"/Applications/MAMP/htdocs/acsfrontend/lib/acs.js",
+		"/Applications/MAMP/htdocs/acsfrontend/index.old.php",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/lib/button.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/controllers/widget.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/controllers/index.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/views/button.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/styles/widget.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/controllers/button.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/styles/index.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/lib/button.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/views/widget.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/views/index.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/widget.json",
+		"/Users/ralcocer/Downloads/ws_list.php",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/tiapp.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/widgets/com.alco.headerbar/styles/button.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/views/browsefolder.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/controllers/browsefolder.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ActionBarClone/app/config.json",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/config.json",
+		"/Users/ralcocer/MyFirstApp/controllers/application.js",
+		"/Users/ralcocer/MyFirstApp/public/css/style.css",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/views/index.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/views/feed.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/styles/index.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/styles/photo.row.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/styles/feed.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/controllers/index.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/controllers/feed.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/controllers/photo.row.js",
+		"/Users/ralcocer/MyFirstApp/app.js",
+		"/Users/ralcocer/Desktop/ACS_POST_RAW.txt",
+		"/Users/ralcocer/MyFirstApp/config.json",
+		"/Users/ralcocer/MyFirstApp/package.json",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/SuperTemplate2/app/views/win2.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/SuperTemplate2/app/controllers/win2.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/tiapp.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/SuperTemplate2/tiapp.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/views/photo.row.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/views/xfeed.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/app/styles/xfeed.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/ACSTest1/Resources/alloy/controllers/index.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/controllers/index.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/build/mobileweb/manifest.webapp",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/views/index.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/styles/index.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/styles/selecttracks.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/app/styles/listfiles.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/styles/tweet.row.tss",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/tiapp.xml",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/build/mobileweb/titanium/Ti/Network/HTTPClient.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/build/mobileweb/index.html",
+		"/Users/ralcocer/Desktop/installer.html",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/assets/xmanifest.webapp",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/TiMobileRepo/mobileweb/cli/commands/_build.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/htaccess",
+		"/Users/ralcocer/Desktop/fxos01/manifest.webapp",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/controllers/tweet.row.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/assets/manifest.webapp",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/README",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/FirefoxOS Tester/app/views/tweet.row.xml",
+		"/Users/ralcocer/android-ndk-r8e/build/core/init.mk",
+		"/Users/ralcocer/android-ndk-r8e/ndk-build",
+		"/Users/ralcocer/android-ndk-r8e/build/core/build-binary.mk",
+		"/Users/ralcocer/Desktop/httptest/index.html",
+		"/Users/ralcocer/Desktop/Firefox-OS-Boilerplate-App-gh-pages/manifest.appcache",
+		"/Users/ralcocer/Desktop/fxos01/index.html",
+		"/Users/ralcocer/Desktop/appinstaller.htm",
+		"/Users/ralcocer/Desktop/httptest/manifest.webapp",
+		"/Users/ralcocer/Desktop/Firefox-OS-Boilerplate-App-gh-pages/manifest.webapp",
+		"/Users/ralcocer/Desktop/httptest/titanium/Ti/Network/HTTPClient.js.uncompressed.js",
+		"/Users/ralcocer/Desktop/httptest/titanium/Ti/Network/HTTPClient.js",
+		"/Users/ralcocer/Desktop/ks/titanium/Ti/Network/HTTPClient.js",
+		"/Users/ralcocer/Desktop/ks/ui/common/platform/xhr_error.js",
+		"/Users/ralcocer/Desktop/ks/titanium/Ti/Network.js",
+		"/Users/ralcocer/Desktop/ks/manifest.webapp",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Ti Mobile Repo/mobileweb/src/loader.js",
+		"/Applications/MAMP/htdocs/ptags/index.php",
+		"/Applications/MAMP/htdocs/ptags/ptagit.php",
+		"/Applications/MAMP/htdocs/csvapi/tester.php",
+		"/Applications/MAMP/htdocs/csvapi/upload_file.php",
+		"/Users/ralcocer/Desktop/tijokesweb/manifest.webapp",
+		"/Users/ralcocer/Desktop/tt/manifest.webapp",
+		"/Users/ralcocer/Desktop/ks/ui/common/mashups/yql_local_search.js",
+		"/Applications/MAMP/htdocs/csvapi/frmupload.html",
+		"/Applications/MAMP/htdocs/csvapi/csv2json.php",
+		"/Applications/MAMP/htdocs/csvapi/doc.txt",
+		"/Applications/MAMP/htdocs/csvapi/testfile.csv",
+		"/Applications/MAMP/htdocs/hubspot/script.php",
+		"/Users/ralcocer/Desktop/api.json",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/Resources/alloy/controllers/selecttracks.row.js",
+		"/Users/ralcocer/Dropbox/AppC/LocalHacking/Personal/ShowCues/code/ShowCues/Resources/alloy/controllers/selecttracks.js",
+		"/Applications/MAMP/htdocs/csonv/demo/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ACS",
+			"acs",
+			"ACS",
+			"callback",
+			"common",
+			"	$.",
+			"checkbox",
+			"===",
+			"sidebar",
+			"legend",
+			"\">\n",
+			"simp",
+			"simpe",
+			"placestable",
+			"../",
+			"=",
+			"Item",
+			"item",
+			"=",
+			"png",
+			"setextrabuttonaction",
+			"console",
+			":",
+			"=",
+			"'-->\n",
+			"=",
+			"\"Ti.UI.FILL\"",
+			"=",
+			"console",
+			";",
+			"});",
+			"doClick",
+			"click",
+			"',\n",
+			"test1",
+			"console",
+			"here",
+			"cloud",
+			"{mozSystem: true}",
+			"installing app",
+			"alert",
+			"doClick",
+			"();",
+			"xmlhttp",
+			"true",
+			"new xml",
+			"xml",
+			"uploadFolder",
+			"[INFO] :",
+			"ordinal",
+			"[INFO] :   ",
+			"fetch",
+			"prototy",
+			"index",
+			"\\\"",
+			"annotations",
+			"//\n",
+			"ini_set",
+			"comment",
+			"get",
+			"extension",
+			"<?php get_theme_url(); ?> /assets/",
+			"../assets/",
+			"assets/",
+			"../",
+			"speakers",
+			"shortcodes.php",
+			"shrotcodes.php",
+			"‘",
+			"’",
+			"genio",
+			"export",
+			"container",
+			"api.info",
+			"FILL",
+			"dp",
+			"\",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Ti.UI.FILL",
+			"uploadPath",
+			"",
+			"\"",
+			"<?php get_theme_url(); ?>/assets/",
+			"<?php get_theme_url(); ?> /assets/",
+			"../assets/",
+			"",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/ralcocer/Dropbox/AppC/LocalHacking/nodeacs/acsadmin1/acsadmin1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
